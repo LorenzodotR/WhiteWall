@@ -1,1 +1,1 @@
-yarn run startapp
+npm run startapp
