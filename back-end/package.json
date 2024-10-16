@@ -25,6 +25,7 @@
   "dependencies": {
     "@types/pg": "^8.11.10",
     "express": "^4.21.1",
+    "js-guid": "^1.0.2",
     "pg": "^8.13.0"
   }
 }
