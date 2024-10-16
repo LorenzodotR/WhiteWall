@@ -13,7 +13,7 @@
   "main": "index.js",
   "scripts": {
     "startapp": "tsx src/server.ts",
-    "start:dev": "tsx watch src/server.ts && tsx watch db-con.ts",
+    "start:dev": "tsx watch src/server.ts",
     "build": "tsup src",
     "test": "vitest",
     "nodem": "nodemon src/server.ts"
@@ -24,6 +24,7 @@
   "description": "",
   "dependencies": {
     "@types/pg": "^8.11.10",
+    "cors": "^2.8.5",
     "express": "^4.21.1",
     "js-guid": "^1.0.2",
     "pg": "^8.13.0"
