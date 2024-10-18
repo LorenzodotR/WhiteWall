@@ -13,7 +13,7 @@ This repository contains the backend code for the White Wall project.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/white-wall-backend.git
+    git clone https://github.com/LorenzodotR/WhiteWall.git
     ```
 2. Navigate to the project directory:
     ```sh
